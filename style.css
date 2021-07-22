@@ -1,0 +1,27 @@
+.login{
+    padding-left: 500px;
+    padding-top: 200px;
+    color:dodgerblue;
+    background-color: burlywood;
+    border: 2px solid blueviolet;
+}
+#log{
+    background-color: blueviolet;
+}
+#a{
+    background-color: sandybrown;
+}
+#b{
+    float: right;
+}
+.main{
+    background-color: rgba(223, 255, 106, 0.801);
+    /* background-color: rosybrown; */
+}
+#demo{
+    background-color: rgba(128, 128, 128, 0.767);
+    color: blue;
+}
+#Z{
+    padding-left: 550PX;
+}
